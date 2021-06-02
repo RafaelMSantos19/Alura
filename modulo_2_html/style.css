@@ -4,6 +4,8 @@ body{
 
 .titulo_principal{
     padding-left: 20px;
+    background-color: gray;
+    font-size: 50;
 }
 
 #banner{
